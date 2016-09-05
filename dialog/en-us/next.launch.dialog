@@ -1,0 +1,3 @@
+A {{ rocket_name }} will be launching at {{ launch_time }} on {{ launch_date }} from {{ launch_location }}.
+The next space launch will be on {{ launch_date }} at {{ launch_time }}. A {{ rocket_name }} will be launching from {{ launch_location }}.
+The {{ rocket_name }} will launch from {{ launch_location }} on {{ launch_date }} at {{ launch_time }}.
